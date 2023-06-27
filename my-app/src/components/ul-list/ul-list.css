@@ -1,0 +1,21 @@
+
+
+.app-list{
+width: 78%;
+padding:0;
+}
+
+li{
+   list-style: none;
+   margin-bottom: 20px;
+   font-size: 16px;
+   font-weight: 500;
+   padding: 15px 0 15px 10px;
+   background-color: #fff;
+margin-bottom: 15px;
+border-radius: 7px;
+cursor: pointer;
+display: flex;
+align-items: center;
+box-shadow: 1px 1px 31px 3px rgba(34, 60, 80, 0.2);
+}

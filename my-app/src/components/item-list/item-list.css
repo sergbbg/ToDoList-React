@@ -1,0 +1,17 @@
+
+
+.list-group-item-label.increase{
+   text-decoration: line-through;
+}
+
+.VisibleHiden{
+   position: absolute;
+   left: 0;
+   visibility: hidden;
+}
+.VisibleHiden.increase{
+   visibility: visible;
+}
+.btn-list{
+   position: relative;
+}

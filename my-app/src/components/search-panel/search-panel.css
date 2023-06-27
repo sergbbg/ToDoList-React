@@ -1,0 +1,16 @@
+.search-panel {
+   background-color: #4143e2;
+   color: #fff;
+   height:80px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+}
+.search-input{
+   height: 25px;
+   width: 50%;
+   border-radius: 5px;
+   padding-left: 10px;
+   box-shadow: 15px 15px 30px rgba(0,0,0, .15);
+}
