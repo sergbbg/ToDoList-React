@@ -28,7 +28,9 @@ class App extends Component {
 
 
      addItem = (name) => {
-        const newItem = {
+        
+        if (name.trim() != '') {
+          const newItem = {
             name, 
             increase: false,
             id: this.maxId++
@@ -38,7 +40,9 @@ class App extends Component {
             return {
                 data: newArr
             }
-        });
+        }); 
+        }
+        
     }
 
 

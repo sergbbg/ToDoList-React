@@ -1,6 +1,8 @@
 body {
   margin:0;
-  font-family: 'Bacasime Antique', serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;600;700&display=swap');

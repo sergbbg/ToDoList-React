@@ -16,7 +16,7 @@ render(){
    return (
     <input type="text"
             className="form-control search-input"
-            placeholder="Найти задачу"
+            placeholder="Найти задачу &#128269;"
             />
 )  
 }
